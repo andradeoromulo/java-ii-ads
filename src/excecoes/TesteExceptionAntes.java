@@ -1,6 +1,6 @@
 package excecoes;
 
-public class TesteException {
+public class TesteExceptionAntes {
 
 	public static void main(String[] args) {
 		System.out.println("Início do método main()");
@@ -20,16 +20,11 @@ public class TesteException {
 		int array[];
 		array = new int[10];
 		
-		try {
-			for(int i=0; i<20; i++) {
+		for(int i=0; i<20; i++) {
 				array[i] = i;
 				System.out.println(i);
-			}			
-		} catch(ArrayIndexOutOfBoundsException e) {
-			System.out.println("Houve um erro: " + e);
 		}
 		
 		System.out.println("Fim do metodo2()");
 	}
-
 }
