@@ -10,7 +10,7 @@ public class TesteExceptionAntes {
 	
 	public static void metodo1() {
 		System.out.println("Início do metodo1()");
-		metodo2();
+		metodo2();	
 		System.out.println("Fim do metodo1()");
 	}
 	
