@@ -22,11 +22,5 @@ public class TestaMath {
 		System.out.println(d3);
 		System.out.println(d4);
 		
-		/*
-		 * Implementar testes para os seguintes métodos de Math,
-		 * usando e comentando sobre o funcionamento:
-		 * random, max, min, ceil, floor, exp, log, pow, sqrt, sin, toDegrees, toRadians
-		 */
-		
 	}
 }
