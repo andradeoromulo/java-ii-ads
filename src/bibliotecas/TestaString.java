@@ -51,11 +51,15 @@ public class TestaString {
 		String e = a.toUpperCase();
 		System.out.println(e);
 		
-		//Com a variável "a" e o auxílio de outras variáveis
-		//crie exemplos para demonstrar a funcionalidade
-		//dos seguintes métodos de String (podem ou não ter params):
-		//charAt(); length(); substring(); indexOf(); lastIndexOf();
-		//isEmpty(); contains(); replace().
+		/*
+		 * Com a variável "a" e o auxílio de outras variáveis,
+		 * crie exemplos para demonstrar a funcionalidade
+		 * dos seguintes métodos de String (podem ou não ter params):
+		 * charAt(); length(); substring(); indexOf(); lastIndexOf();
+		 * isEmpty(); contains(); replace().
+		 * 
+		 * Respostas na classe TarefaString
+		 */
 		
 	}
 }
